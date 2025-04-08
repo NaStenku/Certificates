@@ -4,14 +4,22 @@ This repository contains my professional certificates and achievements in the fi
 
 ## 🏆 Achievements
 
-- **Dev Challenge Hackathon** – 1st Place (Manual QA) - 2020
-- **ISTQB Foundation Level** – Certified Tester - 2022
+- **Dev Challenge Hackathon** – 1st Place (Manual QA) - *2020*
+- **ISTQB Foundation Level** – Certified Tester - *2022*
 
 ## 📄 Certificates
 
-- `Python programming` - 2020
-- `Git_Basic` - 2020
-- `HTML_CSS` - 2020
-- `Automation testing Selenium and Python` - 2022
-- `Observability Tool Training - Python` - 2023
-- `Usability testing workshop` - 2024
+- **Python Programming** – *2020*  
+  - [Game Theory Bot](https://github.com/NaStenku/gametheory_bot)  
+  - [Monty Hall Paradox – Desktop App](https://github.com/NaStenku/Monty-Hall-paradox)
+  
+- **Git Basic** – *2020*
+
+- **HTML & CSS** – *2020*
+
+- **Automation Testing with Selenium and Python** – *2022*  
+  - [Selenium Autotests (GitHub)](https://github.com/NaStenku/selenium_autotests_python)
+
+- **Observability Tool Training – Python** – *2023*
+
+- **Usability Testing Workshop** – *2024*
