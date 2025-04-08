@@ -9,8 +9,11 @@ This repository contains my professional certificates and achievements in the fi
 
 ## 📄 Certificates
 
-- `Automation testing Selenium and Python.pdf`
-- `Git_Basic.pdf`
-- `HTML_CSS.pdf`
-- `Python.pdf`
+- `Automation testing Selenium and Python`
+- `Git_Basic`
+- `HTML_CSS`
+- `Python course`
+- `Observability Tool Training - Python`
+- `Usability testing workshop`
+
 
