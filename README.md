@@ -4,16 +4,14 @@ This repository contains my professional certificates and achievements in the fi
 
 ## 🏆 Achievements
 
-- **Dev Challenge Hackathon** – 1st Place (Manual QA)
-- **ISTQB Foundation Level** – Certified Tester
+- **Dev Challenge Hackathon** – 1st Place (Manual QA) - 2020
+- **ISTQB Foundation Level** – Certified Tester - 2022
 
 ## 📄 Certificates
 
-- `Automation testing Selenium and Python`
-- `Git_Basic`
-- `HTML_CSS`
-- `Python course`
-- `Observability Tool Training - Python`
-- `Usability testing workshop`
-
-
+- `Python programming` - 2020
+- `Git_Basic` - 2020
+- `HTML_CSS` - 2020
+- `Automation testing Selenium and Python` - 2022
+- `Observability Tool Training - Python` - 2023
+- `Usability testing workshop` - 2024
