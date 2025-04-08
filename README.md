@@ -18,8 +18,15 @@ This repository contains my professional certificates and achievements in the fi
 - **HTML & CSS** – *2020*
 
 - **Automation Testing with Selenium and Python** – *2022*  
-  - [Selenium Autotests (GitHub)](https://github.com/NaStenku/selenium_autotests_python)
+  - [Selenium Autotests](https://github.com/NaStenku/selenium_autotests_python)
 
 - **Observability Tool Training – Python** – *2023*
 
 - **Usability Testing Workshop** – *2024*
+
+## 🛠️ Pet Projects
+
+- [Bot with DALL·E Integration (GitHub)](https://github.com/NaStenku/bot-with-DALL-E-integration) – Telegram bot using OpenAI API for image generation.
+
+- [Reusable Checklists – Chrome Extension](https://chromewebstore.google.com/detail/reusable-checklists/) – Browser extension for creating and managing reusable checklists.
+
