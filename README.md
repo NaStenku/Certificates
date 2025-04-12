@@ -24,6 +24,8 @@ This repository contains my professional certificates and achievements in the fi
 
 - **Usability Testing Workshop** – *2024*
 
+- **Test design training - Black box testing techniques** – *2025*
+
 ## 🛠️ Pet Projects
 
 - [Bot with DALL·E Integration (GitHub)](https://github.com/NaStenku/bot-with-DALL-E-integration) – Telegram bot using OpenAI API for image generation.
