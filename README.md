@@ -6,6 +6,7 @@ This repository contains my professional certificates and achievements in the fi
 
 - **Dev Challenge Hackathon** – 1st Place (Manual QA) - *2020*
 - **ISTQB Foundation Level** – Certified Tester - *2022*
+- **Dev Challenge Hackathon** – Finalist - *2022*
 
 ## 📄 Certificates
 
@@ -23,6 +24,8 @@ This repository contains my professional certificates and achievements in the fi
 - **Observability Tool Training – Python** – *2023*
 
 - **Usability Testing Workshop** – *2024*
+
+- **Chat Gpt for everyone - prompting** – *2024*
 
 - **Test design training - Black box testing techniques** – *2025*
 
